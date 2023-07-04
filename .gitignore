@@ -1,3 +1,4 @@
 rottentomatoes-400k.csv
 verse-embeddings.pkl
+verse-embeddings_full.pkl
 __pycache__
